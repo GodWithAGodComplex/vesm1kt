@@ -1,3 +1,2 @@
-# vesm1kt
-spiderman 7
-spider man seven
+# Þorbjörn Egill Óskarsson
+## Ég bý í Breiðholtinu og í Miðbænum.
